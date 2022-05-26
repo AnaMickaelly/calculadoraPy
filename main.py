@@ -43,6 +43,8 @@ b_4 = Button(Frame_corpo, text="8", width=11, height=2, bg=cor5, fg=cor2,  font=
 b_4.place(x=0, y=52)
 b_4 = Button(Frame_corpo, text="9", width=11, height=2, bg=cor4,  font=('Ivy 13 bold' ), relief=RAISED,  overrelief=RIDGE)  
 b_4.place(x=0, y=52)
+
+
 b_4 = Button(Frame_corpo, text="*", width=11, height=2, bg=cor5, fg=cor2,  font=('Ivy 13 bold' ), relief=RAISED,  overrelief=RIDGE) 
 b_4.place(x=177, y=52)
 
